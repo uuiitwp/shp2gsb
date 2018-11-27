@@ -18,3 +18,4 @@ shp2gsb.DL_SW = "DL_西南"
 
 # shp2gsb.write(grid_shift_shapefile, gsb_file_output_path)
 shp2gsb.write(r'c:\grid.shp', r'c:\a.gsb')
+
