@@ -3,7 +3,7 @@ from shp2gsb import shp2gsb
 
 """
 指定shp中改正字段
-To spacify the shapefile grid-shift fields
+To spacify the shapefile grid-shift fields name
 """
 
 shp2gsb.DB_NE = "DB_东北"
